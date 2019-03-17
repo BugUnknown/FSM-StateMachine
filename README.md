@@ -1,3 +1,4 @@
 # FSM
 Finitude State Machine</br>
-有限状态机
+
+自己写的Unity 3D开发中用到的有限状态机
